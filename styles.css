@@ -395,7 +395,10 @@ p {
   font-style: italic;
   text-shadow: 1px 1px #000;
 }
-
+.imageresume {
+  width: 400px;
+  height: 500px;
+}
 .resume {
   font-family: Georgia;
   font-size: 8pt;
